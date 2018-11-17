@@ -1,5 +1,4 @@
 # ES6-learn
-#ES6 learn
 ## 1、ES6怎么来的
 * 	ECMAScript 和 JavaScript
 	* ECMA 是标准，JS 是实现
