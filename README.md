@@ -76,7 +76,7 @@
 	* 如果只有一个参数，`（）`可以省略
 	* 如果只有一个`return`, `{}`可以省略 
 
-```
+```html
 //箭头函数
 ()=>{}
 
@@ -100,7 +100,7 @@ let show3 = a => a*2
 	* 参数扩展/数组展开（`...args`）
 	* 默认参数
 	
-		```
+		```html
 		function show2(a, b=5, c=8) {
 		    console.log(a, b, c)
 		}
@@ -112,7 +112,7 @@ let show3 = a => a*2
 	* 展开数组
 		* 展开后的效果，跟直接把数组的内容写在这儿一样的
 		
-```
+```html
 	function show(a, b, ...args) {
 	    console.log(a)
 	    console.log(b)
